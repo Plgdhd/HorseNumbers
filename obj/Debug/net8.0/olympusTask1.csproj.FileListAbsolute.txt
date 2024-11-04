@@ -1,0 +1,14 @@
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.AssemblyInfoInputs.cache
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.AssemblyInfo.cs
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.csproj.CoreCompileInputs.cache
+H:\Программы на С#\olympusTask1\bin\Debug\net8.0\olympusTask1.exe
+H:\Программы на С#\olympusTask1\bin\Debug\net8.0\olympusTask1.deps.json
+H:\Программы на С#\olympusTask1\bin\Debug\net8.0\olympusTask1.runtimeconfig.json
+H:\Программы на С#\olympusTask1\bin\Debug\net8.0\olympusTask1.dll
+H:\Программы на С#\olympusTask1\bin\Debug\net8.0\olympusTask1.pdb
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.dll
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\refint\olympusTask1.dll
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.pdb
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\olympusTask1.genruntimeconfig.cache
+H:\Программы на С#\olympusTask1\obj\Debug\net8.0\ref\olympusTask1.dll
